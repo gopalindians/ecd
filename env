@@ -1,0 +1,3 @@
+PHP_APP=true
+GO_APP=false
+JS_APP=false
